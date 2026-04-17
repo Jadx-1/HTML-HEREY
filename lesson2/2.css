@@ -1,0 +1,62 @@
+.l2-request {
+    background-color: black; color: white;
+    width: 120px; height: 50px; border: none;
+}
+
+.l2-amazon {
+    background-color: rgb(255, 216, 20);
+    width: 150px; height: 35px; border-radius: 50px; border: none;
+}
+
+.l2-github {
+    background-color: rgb(46, 164, 79); color: white;
+    width: 90px; height: 50px; border-radius: 5px; border: none;
+}
+
+.l2-bootstrap {
+    background-color: rgb(121, 82, 179); color: white;
+    width: 120px; height: 50px; border-radius: 3px; border: none;
+}
+
+.l2-download {
+    background-color: white; color: rgb(108, 117, 125);
+    width: 90px; height: 50px; border: 1px solid rgb(108, 117, 125); border-radius: 5px;
+}
+
+.l2-linkedin {
+    background-color: rgb(10, 102, 194); color: white;
+    width: 200px; height: 45px; border-radius: 50px; border: none;
+}
+
+.l2-save {
+    background-color: white; color: rgb(10, 102, 194);
+    width: 90px; height: 45px; border: 1px solid rgb(10, 102, 194); border-radius: 50px;
+}
+
+.blue {
+  color: rgb(0,113,133);
+}
+
+.green{
+  color: rgb(0,118,0);
+}
+
+.btn-orange{
+  border: none;
+  outline: none;
+  height: 35px;
+  width: 150px;
+  border-radius: 50px;
+  background-color:rgb(255, 164, 28)
+}
+
+.btn-yellow{
+  border: none;
+  outline: none;
+  height: 35px;
+  width: 150px;
+  border-radius: 50px;
+   background-color:rgb(255, 216, 20)
+}
+
+
